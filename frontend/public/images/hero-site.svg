@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" preserveAspectRatio="xMaxYMid slice">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14407a"/><stop offset="1" stop-color="#0a2548"/></linearGradient></defs>
+  <rect width="1600" height="700" fill="url(#g)"/>
+  <g stroke="#2d5c9e" stroke-width="3" fill="none" opacity=".75">
+    <!-- tower crane -->
+    <path d="M1180 700V120M1230 700V120M1180 160h50M1180 220h50M1180 280h50M1180 340h50M1180 400h50M1180 460h50M1180 520h50M1180 580h50M1180 640h50M1180 160l50 60M1180 280l50-60M1180 340l50 60M1180 460l50-60M1180 580l50-60"/>
+    <path d="M840 120h600M840 120l340-60 50 60M1440 120v90M1440 210h-18M1230 120l210-62"/>
+    <path d="M880 120v110M880 230h-20v40h40v-40z"/>
+  </g>
+  <g fill="#0d2f5c" opacity=".9">
+    <rect x="1280" y="330" width="160" height="370"/><rect x="1450" y="260" width="130" height="440"/>
+    <rect x="1010" y="420" width="130" height="280"/>
+  </g>
+  <g stroke="#2d5c9e" stroke-width="2" opacity=".6" fill="none">
+    <path d="M1280 400h160M1280 470h160M1280 540h160M1280 610h160M1360 330v370M1450 330h130M1450 400h130M1450 470h130M1450 540h130M1450 610h130M1515 260v440"/>
+    <path d="M1010 480h130M1010 540h130M1010 600h130M1075 420v280"/>
+  </g>
+  <rect y="690" width="1600" height="10" fill="#f86a00" opacity=".9"/>
+</svg>
